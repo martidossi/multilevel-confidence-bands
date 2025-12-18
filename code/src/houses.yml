@@ -1,0 +1,53 @@
+- name: Artemisstreet
+  longitude: -121.49
+  latitude: 39.49
+  true_value: 0.889
+  complexity: easy
+
+- name: Aphroditestreet
+  longitude: -124.11
+  latitude: 40.95
+  true_value: 0.817
+  complexity: easy
+
+- name: Apollostreet
+  longitude: -122.18
+  latitude: 37.8
+  true_value: 3.182
+  complexity: easy
+
+- name: Athenastreet
+  longitude: -122.27
+  latitude: 37.82
+  true_value: 1.125
+  complexity: medium
+
+- name: Poseidonstreet
+  longitude: -118.35
+  latitude: 34.1
+  true_value: 3.722
+  complexity: medium
+
+- name: Aresstreet
+  longitude: -118.32
+  latitude: 33.77
+  true_value: 5.00001
+  complexity: medium
+
+- name: Zeusstreet
+  longitude: -117.08
+  latitude: 34.08
+  true_value: 5.00001
+  complexity: hard
+
+- name: Hephaestusstreet
+  longitude: -120.92
+  latitude: 37.63
+  true_value: 4.5
+  complexity: hard
+
+- name: Hestiastreet
+  longitude: -118.33
+  latitude: 34.15
+  true_value: 0.175
+  complexity: hard
